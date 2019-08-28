@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5d1ad33-6c7d-479d-8454-b42e22e53858" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/edu/cn/panel/ChooseRoles$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/edu/cn/panel/ChooseRoles$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/edu/cn/panel/ChooseRoles$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/edu/cn/panel/ChooseRoles$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/edu/cn/panel/ChooseRoles$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/edu/cn/panel/ChooseRoles$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/edu/cn/panel/ChooseRoles$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/edu/cn/panel/ChooseRoles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/edu/cn/panel/Pai$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/edu/cn/panel/Pai$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/edu/cn/panel/Pai$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/edu/cn/panel/Pai$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/edu/cn/panel/Pai$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/edu/cn/panel/Pai$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/edu/cn/panel/Pai$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/edu/cn/panel/Pai.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/edu/cn/panel/RulesState$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/edu/cn/panel/RulesState$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/edu/cn/panel/RulesState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/edu/cn/panel/StartGame$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/edu/cn/panel/StartGame$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/edu/cn/panel/StartGame$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/edu/cn/panel/StartGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/edu/cn/poker/Card.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/edu/cn/poker/Poker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/edu/cn/rulesPanel/PokerPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/cn/rulesPanel/PokerPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/cn/panel/StartGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="639">
+              <caret line="54" column="8" lean-forward="true" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bin/edu/cn/panel/ChooseRoles.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="83" column="11" lean-forward="true" selection-start-line="83" selection-start-column="11" selection-end-line="83" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#5591#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/cn/panel/ChooseRoles.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/cn/poker/Poker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/cn/poker/Card.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="140" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PokerGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PokerGame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PokerGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PokerGame" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PokerGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PokerGame" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PokerGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PokerGame" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PokerGame" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PokerGame" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="panel" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="StartGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.cn.panel.StartGame" />
+      <module name="Poker_Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.cn.panel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5d1ad33-6c7d-479d-8454-b42e22e53858" name="Default Changelist" comment="" />
+      <created>1562719389700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562719389700</updated>
+      <workItem from="1562719394659" duration="205000" />
+      <workItem from="1562719637664" duration="3028000" />
+      <workItem from="1562728812554" duration="73000" />
+      <workItem from="1562728902371" duration="105000" />
+      <workItem from="1562740872462" duration="1038000" />
+      <workItem from="1562742197213" duration="1051000" />
+      <workItem from="1562744309422" duration="94000" />
+      <workItem from="1562744422560" duration="607000" />
+      <workItem from="1562749205943" duration="704000" />
+      <workItem from="1562803936264" duration="2292000" />
+      <workItem from="1565750887352" duration="171000" />
+      <workItem from="1566808996644" duration="395000" />
+      <workItem from="1566992459367" duration="1439000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11202000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1689008" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://JAVA/edu.cn.poker">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>edu.cn.poker</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">edu.cn.poker.Card</node>
+            <node x="247.0" y="0.0">edu.cn.poker.Poker</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-42.0" y="37.0" />
+          <SelectedNodes>
+            <node>edu.cn.poker.Card</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>Project Files</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/edu.cn.panel">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>edu.cn.panel</OriginalElement>
+          <nodes>
+            <node x="93.375" y="435.0">edu.cn.panel.StartGame</node>
+            <node x="7.784090909090935" y="-92.72727272727278">edu.cn.panel.Pai</node>
+            <node x="310.784090909091" y="-3.1363636363637113">edu.cn.panel.RulesState</node>
+            <node x="-82.2159090909091" y="130.5454545454545">edu.cn.panel.ChooseRoles</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="edu.cn.panel.RulesState" target="edu.cn.panel.StartGame">
+              <point x="19.125" y="50.0" />
+              <point x="275.5" y="405.0" />
+              <point x="217.6875" y="405.0" />
+              <point x="47.8125" y="-50.0" />
+            </edge>
+            <edge source="edu.cn.panel.ChooseRoles" target="edu.cn.panel.StartGame">
+              <point x="57.375" y="84.5" />
+              <point x="140.75" y="385.0" />
+              <point x="160.3125" y="385.0" />
+              <point x="-9.5625" y="-50.0" />
+            </edge>
+            <edge source="edu.cn.panel.StartGame" target="edu.cn.panel.RulesState">
+              <point x="9.5625" y="-50.0" />
+              <point x="179.4375" y="385.0" />
+              <point x="199.0" y="385.0" />
+              <point x="-57.375" y="50.0" />
+            </edge>
+            <edge source="edu.cn.panel.StartGame" target="edu.cn.panel.ChooseRoles">
+              <point x="-47.8125" y="-50.0" />
+              <point x="122.0625" y="405.0" />
+              <point x="64.25" y="405.0" />
+              <point x="-19.125" y="84.5" />
+            </edge>
+            <edge source="edu.cn.panel.ChooseRoles" target="edu.cn.panel.Pai">
+              <point x="-57.375" y="-84.5" />
+              <point x="-57.375" y="73.0" />
+            </edge>
+            <edge source="edu.cn.panel.Pai" target="edu.cn.panel.ChooseRoles">
+              <point x="19.125" y="73.0" />
+              <point x="19.125" y="-84.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0999999999999996" x="-65.0" y="62.0" />
+          <SelectedNodes>
+            <node>edu.cn.panel.ChooseRoles</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>Project Files</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/edu.cn.rulesPanel">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>edu.cn.rulesPanel</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">edu.cn.rulesPanel.PokerPanel</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.8063851699279093" x="-196.0" y="278.0" />
+          <SelectedNodes>
+            <node>edu.cn.rulesPanel.PokerPanel</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>Project Files</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/edu.cn.panel.Pai">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>edu.cn.panel.Pai</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">edu.cn.panel.Pai</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-325.0" y="-106.0" />
+          <SelectedNodes>
+            <node>edu.cn.panel.Pai</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>Project Files</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/edu.cn.poker.Card">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>edu.cn.poker.Card</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">edu.cn.poker.Card</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-301.0" y="9.0" />
+          <SelectedNodes>
+            <node>edu.cn.poker.Card</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>Project Files</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/edu.cn.poker.Poker">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>edu.cn.poker.Poker</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">edu.cn.poker.Poker</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-307.0" y="-14.0" />
+          <SelectedNodes>
+            <node>edu.cn.poker.Poker</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>Project Files</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/edu.cn.rulesPanel.PokerPanel">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>edu.cn.rulesPanel.PokerPanel</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">edu.cn.rulesPanel.PokerPanel</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-299.0" y="54.0" />
+          <SelectedNodes>
+            <node>edu.cn.rulesPanel.PokerPanel</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+          </Categories>
+          <SCOPE>Project Files</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/edu.cn.panel.RulesState">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>edu.cn.panel.RulesState</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">edu.cn.panel.RulesState</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-321.0" y="-129.0" />
+          <SelectedNodes>
+            <node>edu.cn.panel.RulesState</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>Project Files</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/edu.cn.panel.StartGame">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>edu.cn.panel.StartGame</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">edu.cn.panel.StartGame</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="77.0" y="50.0" />
+          <SelectedNodes>
+            <node>edu.cn.panel.StartGame</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>Project Files</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/edu.cn.panel.ChooseRoles">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>edu.cn.panel.ChooseRoles</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">edu.cn.panel.ChooseRoles</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-317.0" y="-95.0" />
+          <SelectedNodes>
+            <node>edu.cn.panel.ChooseRoles</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>Project Files</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/edu.cn">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>edu.cn</OriginalElement>
+          <nodes>
+            <node x="75.45833333333333" y="1807.0">edu.cn.panel</node>
+            <node x="7.73333333333332" y="806.0">edu.cn.rulesPanel.PokerPanel</node>
+            <node x="24.066666666666663" y="0.0">edu.cn.poker.Card</node>
+            <node x="0.0" y="426.0">edu.cn.poker.Poker</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="edu.cn.poker.Poker" target="edu.cn.poker.Card">
+              <point x="63.0" y="-165.0" />
+              <point x="157.5" y="401.0" />
+              <point x="150.31666666666666" y="401.0" />
+              <point x="25.249999999999986" y="188.0" />
+            </edge>
+            <edge source="edu.cn.rulesPanel.PokerPanel" target="edu.cn.poker.Card">
+              <point x="84.33333333333331" y="-475.5" />
+              <point x="218.56666666666663" y="781.0" />
+              <point x="199.5" y="781.0" />
+              <point x="199.5" y="401.0" />
+              <point x="200.81666666666666" y="401.0" />
+              <point x="75.74999999999999" y="188.0" />
+            </edge>
+            <edge source="edu.cn.rulesPanel.PokerPanel" target="edu.cn.poker.Poker">
+              <point x="0.0" y="-475.5" />
+              <point x="134.23333333333332" y="781.0" />
+              <point x="141.75" y="781.0" />
+              <point x="47.25" y="165.0" />
+            </edge>
+            <edge source="edu.cn.panel" target="edu.cn.rulesPanel.PokerPanel">
+              <point x="-26.5" y="-14.5" />
+              <point x="101.95833333333333" y="1782.0" />
+              <point x="70.98333333333332" y="1782.0" />
+              <point x="-63.25" y="475.5" />
+            </edge>
+            <edge source="edu.cn.panel" target="edu.cn.panel">
+              <point x="26.5" y="14.5" />
+              <point x="154.95833333333331" y="1866.0" />
+              <point x="45.45833333333333" y="1866.0" />
+              <point x="45.45833333333333" y="1814.25" />
+              <point x="-53.0" y="-7.25" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-324.0" y="1298.0" />
+          <SelectedNodes>
+            <node>edu.cn.panel</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>Project Files</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="0.0" y="0.0">edu.cn</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="120.0" y="15.0" />
+          <SelectedNodes>
+            <node>edu.cn</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>Project Files</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/cn/rulesPanel/PokerPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/cn/panel/ChooseRoles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/cn/poker/Poker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/cn/poker/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/cn/panel/StartGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="54" column="8" lean-forward="true" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/edu/cn/panel/ChooseRoles.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="83" column="11" lean-forward="true" selection-start-line="83" selection-start-column="11" selection-end-line="83" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#5591#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
